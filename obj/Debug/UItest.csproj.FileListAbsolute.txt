@@ -1,0 +1,13 @@
+C:\Users\igasa\Desktop\UItest\bin\Debug\UItest.exe.config
+C:\Users\igasa\Desktop\UItest\bin\Debug\UItest.exe
+C:\Users\igasa\Desktop\UItest\bin\Debug\UItest.pdb
+C:\Users\igasa\Desktop\UItest\obj\Debug\UItest.csprojAssemblyReference.cache
+C:\Users\igasa\Desktop\UItest\obj\Debug\UItest.Form1.resources
+C:\Users\igasa\Desktop\UItest\obj\Debug\UItest.Properties.Resources.resources
+C:\Users\igasa\Desktop\UItest\obj\Debug\UItest.csproj.GenerateResource.cache
+C:\Users\igasa\Desktop\UItest\obj\Debug\UItest.csproj.CoreCompileInputs.cache
+C:\Users\igasa\Desktop\UItest\obj\Debug\UItest.exe
+C:\Users\igasa\Desktop\UItest\obj\Debug\UItest.pdb
+C:\Users\igasa\Desktop\UItest\obj\Debug\UItest.Form2.resources
+C:\Users\igasa\Desktop\UItest\obj\Debug\UItest.Form3.resources
+C:\Users\igasa\Desktop\UItest\obj\Debug\UItest.Form4.resources
